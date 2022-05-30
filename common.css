@@ -1,0 +1,24 @@
+INSTRUMENT{
+    font-style: italic;
+    display: inline;
+}
+
+ARTICLE {
+    font-family:serif;
+    display: block;
+}
+
+HEADLINE{
+    display: block;
+}
+
+AUTHOR{
+    display: block;
+}
+
+PARA{
+    font-size: 1em;
+    display: block;
+}
+
+
